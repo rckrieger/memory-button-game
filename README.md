@@ -12,7 +12,7 @@ Here are my key findings
 ### Xcode 15  (I might update this for Xcode 26 later)
 - UI experience - buttons: I want a way to switch button postions. The + storyboard adder and + editor adder are unitutively placed. I consistently hit add editor when I wanted to add storyboard element because it is closest to the story board.
 - Feature Request - Backgrounds: For elements like buttons I want an easier way to set the background as an image with Storyboard. Right now you can fake it by making the background transparent and putting an image underneath, but you need to hope constraints are set correctly.
-- Feature Request: I want a vistor file view. I often reference my old code to write new. I want a clear way to have a file to have a file appear with a project w/o having to have both projects open because that takes up too much screen space.
+- Feature Request: I want a vistor file view. I often reference my old code to write new. I want a clear way to have a file appear with a project w/o having to have both projects open because that takes up too much screen space.
 - Breakpoints Bug: I put a breakpoint in a file and then deleted the file. Xcode still showed that breakpoint despite cleaning my build folder,
 ### Swift
 - User Error: There were times I used try/catch to make sure an object was defined before calling into an attribute. This was not enough for the swift checker, which wanted me to use ! and ? with more confidence than I was sure about.
