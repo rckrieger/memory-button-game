@@ -1,7 +1,7 @@
 # Memory-Button-Game
 
 ## Overview
-In order to learn more about Xcode and Swift I tried building a UIKit memory game in 2 days. While I did not complete the game, I was able to achieve the goal of exporing the tools
+In order to learn more about Xcode and Swift I tried building a UIKit memory game in 2 days. While I did not complete the game, I was able to achieve the goal of exploring the tools
 
 
 ## Demo
