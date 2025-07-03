@@ -7,7 +7,7 @@ In order to learn more about Xcode and Swift I tried building a UIKit memory gam
 ## Key Findings
 Here are my key findings
 ### Simulator
-- Games: Extremely buggy for horizontal iPad experiences. Even with Horizontal storyboards set, the simulator opened it every which way. This will especially hurt Apple as they try to tackle Gaming to rival Windows Gamining ecosystem.
+- Games: Simulator is extremely buggy for horizontal iPad experiences. Even with Horizontal storyboards set, the app launched every which way. This will especially hurt Apple as they try to tackle Gaming to rival the Windows Gaming ecosystem.
 - Windowing: Would benefit from using Apple Intellegence for Smart Windowing. Half the time Simulator opened behind XCode so I missed seeing the launch screen.
 ### Xcode 15  (I might update this for Xcode 26 later)
 - UI experience - buttons: I want a way to switch button postions. The + storyboard adder and + editor adder are unitutively placed. I consistently hit add editor when I wanted to add storyboard element because it is closest to the story board.
